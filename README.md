@@ -5,7 +5,7 @@ Welcome to **_Monster Modders_**! A free to play web-based player vs. player hal
 
 
 ## Want to Play?
-[Click Me!](https://monster-modders.herokuapp.com/)
+[Click Me!](https://monster-modders-adc419805875.herokuapp.com/)
 
 ## "UGGGGH... Do I HAVE to Create an In-Game Account"?
 Absolutely not! You can play the game freely without ever having to enter any type of information. But wouldn't it be cool to have a personalized name above your character and be at the top of the leaderboard?
